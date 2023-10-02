@@ -1,1 +1,2 @@
-# This is Assignment of CG SPPU
+# This is Assignment of CG
+# Computer Graphics
